@@ -39,13 +39,16 @@
 - [Kaggle] 성인 인구조사 소득 예측 Dataset
 <br/>
 
-## Libraries used
+## Libraries used / Version
 <br/>
 
-## File explanation
-<br/>
+**[Lazypredict]**
+- pandas==2.0.3
+- numpy>=1.25.0
+- autoviz
+- scikit-learn==0.23.1
+- lazypredict
 
-## Version
-<br/>
+
 
 ## Result
