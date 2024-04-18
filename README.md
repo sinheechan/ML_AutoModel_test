@@ -36,7 +36,7 @@
 
 ## Dataset
 
-- [Kaggle] 인구 소득 예측 데이터셋
+- [Kaggle] 성인 인구조사 소득 예측 Dataset
 <br/>
 
 ## Libraries used
