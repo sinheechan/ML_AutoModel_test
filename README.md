@@ -10,9 +10,9 @@ Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득�
 
 #### 1.1 Custom ML
 
-> CatBoost는 그래디언트 부스팅 알고리즘을 기반으로 한 고성능 머신 러닝 라이브러리입니다.
+> Custom ML 과정에서 데이터 전처리, 모델 선정, 파라미터 조정 등 일련의 과정을 직접 지정하여 학습을 진행합니다.
 >
-> 해당 모델은 대부분이 범주형변수로 이루어진 데이터셋에서 예측 성능이 우수한 것으로 알려져있어 본 모델로 테스트를 진행합니다.
+> 본 과정에서는 RandomForest, LGBM, Catboost 세 가지 모델의 성능 비교 및 best.model의 예측 정확도를 기준으로 기술합니다.
 <br/>
 
 #### 1.2 PyCaret
@@ -27,7 +27,7 @@ Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득�
 <br/>
 
 #### 1.3 Lazy Predict
-> Lazy Predict는 머신 러닝 모델의 기본 성능을 자동으로 평가하는 파이썬 라이브러리입니다.
+> Lazy Predict는 머신 러닝 모델의 기본 성능을 자동으로 평가하는 Python 라이브러리입니다.
 >
 > 주어진 데이터에 대해 가능한 모든 일반적인 머신 러닝 모델을 학습하고, 성능 지표를 제공합니다.
 >
@@ -54,4 +54,4 @@ Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득�
 ## Result
 
 - 3가지 기법으로 생성한 모델 비교 결과 모델 선정과정에서의 예상 정확도는 LGBM 모델이 best.model로 선정되었습니다.
-- Accuracy의 경우 Custom Model
+- Accuracy의 경우 Custom Model(
