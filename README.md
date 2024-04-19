@@ -1,6 +1,6 @@
 # ML_AutoModel_test
 
-머신러닝 수동 / Pycret / Lazy Predict 세 기법의 비교
+Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득예측 정확도 비교분석
 <br/>
 
 ## Object
