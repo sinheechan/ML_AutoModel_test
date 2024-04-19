@@ -50,8 +50,9 @@ Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득�
 - lazypredict
 
 
-
 ## Result
 
 - 3가지 기법으로 생성한 모델 비교 결과 모델 선정과정에서의 예상 정확도는 LGBM 모델이 best.model로 선정되었습니다.
-- Accuracy의 경우 Custom Model(
+- 모델 Test 성능 측정 과정 Accuracy의 경우 Custom Model(92%), Pycret(86%), Lazy Predict(0.88)의 성능을 보였습니다.
+- 모델 측정에서는 예측 정확도가 감소하는 경향이 있었으며, 선행자료 분석에서는 Auto 모델 기반의 상위 5개 모델을 앙상블하여 가장 높은 예측 정확도를 얻었습니다. 
+- 따라서, 머신러닝 기법에 대한 통찰을 기반으로 후보 모델을 적합시키는 과정이 모델 성능에 가장 중요한 역할을 할 것으로 판단됩니다.   
