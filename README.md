@@ -3,6 +3,9 @@
 Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득예측 정확도 비교분석
 <br/><br/>
 
+<img src="image/income_post.jpeg">
+<br/><br/>
+
 ## Object
 
 ### 1. Model Introduce
