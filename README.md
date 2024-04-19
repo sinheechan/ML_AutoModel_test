@@ -52,3 +52,6 @@
 
 
 ## Result
+
+- 3가지 기법으로 생성한 모델 비교 결과 모델 선정과정에서의 예상 정확도는 LGBM 모델이 best.model로 선정되었습니다.
+- Accuracy의 경우 Custom Model
