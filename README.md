@@ -6,7 +6,7 @@ Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득�
 ## Object
 
 ### 1. Model Introduce
-<br/><br/>
+<br/>
 
 #### 1.1 Custom ML
 
@@ -40,7 +40,12 @@ Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득�
 <br/><br/>
 
 ## Libraries used / Version
-<br/><br/>
+<br/>
+
+**[PyCaret]**
+- pycaret
+- sklearn
+<br/>
 
 **[Lazypredict]**
 - pandas==2.0.3
@@ -48,7 +53,7 @@ Custom.medel 외 Pycret, Lazy Predict AutoML 모델 세 기법의 인구소득�
 - autoviz
 - scikit-learn==0.23.1
 - lazypredict
-
+<br/><br/>
 
 ## Result
 
